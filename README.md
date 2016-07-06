@@ -15,9 +15,8 @@ Copyright © 2016  Ricard Borrull Baraut
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 	
 # Information
-	This game is a Final Degree Project and open source program,
-	designed to control BCI system for the needs of children with cerebral palsy.
-	The game is done in Catalan, but the source code is implemented in English.
+This BCI game is a Final Degree Project and open source program, designed for the needs of children with cerebral palsy.
+The game is done in Catalan, but the source code is implemented in English.
 
 # Personal Information
 		Author: Ricard Borrull Baraut
